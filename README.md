@@ -2,7 +2,10 @@
  Recycler View ve Card View ile Ekran Tasarımı
 
 
-![image](https://user-images.githubusercontent.com/83670111/183749288-ebf34aae-85aa-47b1-a565-b1aeb0392a35.png)
+![image](https://user-images.githubusercontent.com/83670111/183749605-0726b284-8b13-43a6-85a3-66b7f46c5116.png)
 
-![image](https://user-images.githubusercontent.com/83670111/183749387-91e4fa3d-933a-4e41-94b9-560d32345c49.png)
+![image](https://user-images.githubusercontent.com/83670111/183749643-e97c5efc-401f-4a7c-9430-46d86482028f.png)
+
+
+
 
